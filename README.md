@@ -1,2 +1,2 @@
 # Tetsuya_Portfolio
-Data Analyst Porfolio
+Data Analyst Portfolio
